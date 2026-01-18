@@ -1,4 +1,4 @@
-## Cookie（utm_source の管理）
+## hm-javascript-cookie
 
 Hello Mentor の課題で制作した、Cookie を使用した実装です。
 
